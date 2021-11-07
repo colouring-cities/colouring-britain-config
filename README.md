@@ -44,6 +44,9 @@ Host cl-prod
    IdentityFile ~/.ssh/private_key_for_colouring_london.pem
 ```
 
+
+This allows to connect using `ssh cl-sta` and `ssh cl-prod` commands.
+
 ## Deployment
 
 ssh to staging/production and then:
