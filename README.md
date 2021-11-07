@@ -36,12 +36,12 @@ Host cl-sta
    HostName cl-staging.uksouth.cloudapp.azure.com
    User cladmin
    IdentitiesOnly yes
-   IdentityFile /home/mateusz/.ssh/private_key_for_colouring_london.pem
+   IdentityFile ~/.ssh/private_key_for_colouring_london.pem
 Host cl-prod
    HostName cl-production.uksouth.cloudapp.azure.com
    User cladmin
    IdentitiesOnly yes
-   IdentityFile /home/mateusz/.ssh/private_key_for_colouring_london.pem
+   IdentityFile ~/.ssh/private_key_for_colouring_london.pem
 ```
 
 ## Deployment
