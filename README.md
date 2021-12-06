@@ -69,7 +69,7 @@ To see `pl2` status use
 `sudo -u nodeapp pm2 status` - on production
 `sudo -u nodeapp pm2 logs` - on production
 
-(it is a minor difference in setup between production and staging, maybe it may be usefl to remove it)
+(it is a minor difference in setup between production and staging, it may be useful to remove it)
 
 ### Migrations
 
