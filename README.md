@@ -83,6 +83,12 @@ Anyone on internet can view it
 
 https://cl-staging.uksouth.cloudapp.azure.com/
 
+## Updates
+
+It is safe to run `sudo reboot`
+
+System should continue to work after reboot without any further action.
+
 ## Backups
 
 TODO: who maintains backups?
