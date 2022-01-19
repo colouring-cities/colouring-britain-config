@@ -1,6 +1,8 @@
 # colouring-london-config
 A server configuration for hosting an instance of Colouring London
 
+Repository for software itself resides at https://github.com/colouring-cities/colouring-london
+
 ## Basic info
 
 Colouring London site is deployed at Azure, with Ubuntu used as OS.
@@ -77,11 +79,11 @@ Migrations are applied manually.
 
 `psql colouringlondondb cldbadmin < 022.community.up.sql`
 
-### Link to staging site
+### Links
 
-Anyone on internet can view it
+Public staging site, anyone on internet can view it: https://cl-staging.uksouth.cloudapp.azure.com/
 
-https://cl-staging.uksouth.cloudapp.azure.com/
+Production site: https://colouring.london/
 
 ## Updates
 
