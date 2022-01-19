@@ -95,7 +95,7 @@ On the staging server email are not actually being send.
 
 They can be seen at [https://ethereal.email/](https://ethereal.email/)
 
-configuration info, including login and password to [https://ethereal.email/](https://ethereal.email/) is in the `/var/www/colouring-london/ecosystem` file.
+configuration info, including login and password to [https://ethereal.email/](https://ethereal.email/) is in the `/var/www/colouring-london/ecosystem.config.js` file.
 
 ## Backups
 
