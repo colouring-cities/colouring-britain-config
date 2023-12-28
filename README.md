@@ -99,6 +99,10 @@ They can be seen at [https://ethereal.email/](https://ethereal.email/)
 
 configuration info, including login and password to [https://ethereal.email/](https://ethereal.email/) is in the `/var/www/colouring-london/ecosystem.config.js` file.
 
+## Tile cache
+
+On Colouring Britain production server it is in `/srv/colouring-london/tilecache/`
+
 ## Backups
 
 TODO: who maintains backups?
