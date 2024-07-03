@@ -1,11 +1,11 @@
-# colouring-london-config
-A server configuration for hosting an instance of Colouring London
+# colouring-britain-config
+A server configuration for hosting an instance of Colouring Britain
 
-Repository for software itself resides at https://github.com/colouring-cities/colouring-london
+Repository for software itself resides at https://github.com/colouring-cities/colouring-britain
 
 ## Basic info
 
-Colouring London site is deployed at Azure, with Ubuntu used as OS.
+Colouring Britain site is deployed at Azure, with Ubuntu used as OS.
 
 There is a staging instance and production instance.
 
